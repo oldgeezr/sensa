@@ -26,6 +26,7 @@ Project defining requirements
 ### Functional Requirements
 * MCU
 * Config EEPROM
+* SD card
 * Debug interface
 * Sensors
   * Motion (X, Y, Z, Pitch, Roll)
