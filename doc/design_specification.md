@@ -10,7 +10,7 @@ The Sensa project is a low-power multi-senor platform designed for application p
 | Function | Link |
 | - | - |
 | MCU | TBD |
-| Accelerometer | TBD |
+| IMU | TBD |
 | Light Sensor | TBD |
 | Temperature/Humidity Sensor | TBD |
 | LEDs | TBD |
@@ -29,7 +29,7 @@ The Sensa project is a low-power multi-senor platform designed for application p
 * Power, auxillary and reset buttons
 * 3 LEDs (power, status, alert)
 * BLE or WIFI (TBD)
-* Accelerometer (x, y, z, pith, roll)
+* IMU (x, y, z, pith, roll)
 * Light sensor (visible light)
 * Microphone (audible spectrum)
 * Temperature and humidity sensor
@@ -61,7 +61,7 @@ The Sensa project is a low-power multi-senor platform designed for application p
 
 ##### Antenna
 
-##### Accelerometer
+##### IMU
 
 ##### Light Sensor
 

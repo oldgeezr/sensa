@@ -29,7 +29,7 @@ Project defining requirements
 * SD card
 * Debug interface
 * Sensors
-  * Motion (X, Y, Z, Pitch, Roll)
+  * IMU (X, Y, Z, Pitch, Roll)
   * Microphone
   * Temperature
   * Humidity
