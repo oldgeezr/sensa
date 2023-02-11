@@ -51,6 +51,9 @@ The Sensa project is a low-power multi-senor platform designed for application p
 
 ### Functional Description
 
+![Image](img/functional.drawio.svg)
+![Image](img/functional.drawio)
+
 ##### Block Diagram
 
 ### Design Specification
