@@ -1,2 +1,1 @@
-# sensa
-Sensa (Multi-sensor board)
+# Sensa (Multi-sensor board)
