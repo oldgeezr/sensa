@@ -8,6 +8,7 @@ Project defining requirements
 * External commuication
 * Power output
 * RF capable
+* RTC
 
 ### Electrical Requirements
 * USB powered
@@ -50,3 +51,4 @@ Project defining requirements
 * Design for test
 
 ### Cost Requirements
+* Cost priority over performance
