@@ -7,20 +7,20 @@ The Sensa project is a low-power multi-senor platform designed for application p
 ### References 
 
 ##### Datasheets
-Function | Link
-- | -
-MCU | TBD
-Accelerometer | TBD
-Light Sensor | TBD
-Temperature/Humidity Sensor | TBD
-LEDs | TBD
-USB-C Connector | TBD
-Battery | TBD
-Microphone | TBD
-SD Card Connector | TBD
-Communication Connector | TBD
-Power Regulator | TBD
-TVS Diode | TBD
+| Function | Link |
+| - | - |
+| MCU | TBD |
+| Accelerometer | TBD |
+| Light Sensor | TBD |
+| Temperature/Humidity Sensor | TBD |
+| LEDs | TBD |
+| USB-C Connector | TBD |
+| Battery | TBD |
+| Microphone | TBD |
+| SD Card Connector | TBD |
+| Communication Connector | TBD |
+| Power Regulator | TBD |
+| TVS Diode | TBD |
 
 ### Features and Limitations
 * USB-C power/charging (with 1x UART)
