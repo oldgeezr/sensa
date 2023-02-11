@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T18:35:33.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3n3YxvcwI9dwQ1fYwENJ" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-11T18:37:47.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qPtUuB2Y7Dx8PBLFUoM4" version="20.8.20" type="github">
   <diagram name="Page-1" id="c7S7PHu0UhxQzCW4UXiq">
-    <mxGraphModel dx="794" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,38 +156,39 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="350" />
+              <mxPoint x="150" y="385" />
               <mxPoint x="150" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G_PPI8zOTdHrNY6b9ppO-13" value="ON/OFF" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_PPI8zOTdHrNY6b9ppO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G_PPI8zOTdHrNY6b9ppO-14" target="G_PPI8zOTdHrNY6b9ppO-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="336" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="310" />
-              <mxPoint x="160" y="340" />
+              <mxPoint x="150" y="340" />
+              <mxPoint x="150" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G_PPI8zOTdHrNY6b9ppO-14" value="RESET" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_PPI8zOTdHrNY6b9ppO-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G_PPI8zOTdHrNY6b9ppO-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="360" as="sourcePoint" />
             <mxPoint x="280" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="395" />
+              <mxPoint x="140" y="435" />
+              <mxPoint x="160" y="435" />
               <mxPoint x="160" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G_PPI8zOTdHrNY6b9ppO-15" value="BUTTON" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_PPI8zOTdHrNY6b9ppO-22" value="Microphone" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="190" width="80" height="30" as="geometry" />
@@ -204,8 +205,7 @@
               <mxPoint x="150" y="165" />
               <mxPoint x="150" y="280" />
               <mxPoint x="150" y="290" />
-              <mxPoint x="170" y="290" />
-              <mxPoint x="170" y="300" />
+              <mxPoint x="150" y="320" />
               <mxPoint x="170" y="320" />
               <mxPoint x="200" y="320" />
               <mxPoint x="240" y="320" />
