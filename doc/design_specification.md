@@ -18,8 +18,8 @@ The Sensa project is a low-power multi-senor platform designed for application p
 | Battery | TBD |  |
 | Microphone | https://invensense.tdk.com/wp-content/uploads/2020/05/DS-000357-T3902-v1.0.pdf |  |
 | SD Card Connector | https://www.molex.com/pdm_docs/sd/1051620001_sd.pdf |  |
-| Communication Connector | TBD |  |
-| Communication Cable | https://www.molex.com/pdm_docs/sd/2181130600_sd.pdf |  |
+| Communication Connector | https://www.jst-mfg.com/product/pdf/eng/eKR.pdf | 2, 4 and 6 pin connector |
+| Communication Cable | https://www.jst-mfg.com/product/pdf/eng/eKR.pdf| standard 2-pin JST-PH connector - 2mm spacing between pins. KR compatible with PH. |
 | Power Regulator | TBD |  |
 | TVS Diode | TBD |  |
 
