@@ -1,0 +1,56 @@
+DRS
+Design specification
+- Concepts (Functions, ideas, etc.)
+- Sourcing (Second source, alternative component, etc.)
+- Risk analysis!!! (Potential bottlenecks, sourcing issues, concept issues, timeline issues)
+- Checklist
+- Review
+TRS
+- Checklist (Test all functions, etc.)
+- FMEA!!! (Risks)
+- Review
+Bring up (Stand-alone)
+- Spec/Checklist (Standard bring up test)
+- Test
+- Automation
+FCT PCBA
+- Spec (Test all functions, etc.)
+- Test
+- Automation
+FCT System (N/A for this project)
+- Spec
+- Test
+- Automation 
+Stress testing (N/A for this project)
+- Spec
+- Test
+- Automation
+PTRS
+- Spec (Test all functions, AOI, ICT, FCT, etc.)
+- FMEA!!!
+- Test
+- Automation
+Schema
+- Checklist
+- Convention
+- DFT/DFM
+- ECO
+- Review
+Layout
+- Checklist
+- Convetion
+- DFT/DFM
+- ECO
+- Review
+Prototyping
+- Manucaturer
+Testing
+- Bring up
+- - ECO
+- FCT PCBA
+- - ECO
+- FCT System
+- - ECO
+Prod testing
+Checklists
+- Bring up
