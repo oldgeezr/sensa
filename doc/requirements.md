@@ -9,12 +9,16 @@ Project defining requirements
 * Power output
 * RF capable
 * RTC
+* USB 
+  * Mass Storage
+  * Power
+* 
 
 ### Electrical Requirements
 * USB powered
 * Battery powered
 * USB charging
-* Max power consumption according to USB standard (~ 500mA @ 5VDC)
+* Max power consumption according to USB 3.0
 * Power 
   * 1x USB power input
   * 1x Power output
